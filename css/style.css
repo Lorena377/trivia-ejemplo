@@ -1,0 +1,42 @@
+h1 {
+  color: white;
+  text-align: center;
+  }
+body {
+  background-image: url(..);
+}
+h2{
+   color: blue;
+  font-family: verdana;
+   text-align: left;
+}
+h3{
+   color: blue;
+  font-family: verdana;
+   text-align: left;
+}
+h4{
+   color: blue;
+  font-family: verdana;
+   text-align: left;
+}
+ 
+p {
+  color: purple;
+  font-family: verdana;
+  text-align: center;
+}
+
+#pregunta1peru {
+  display : none;
+}
+#pregunta2peru {
+  display : none;
+}
+#pregunta3peru {
+  display : none;
+}
+
+.procesar{
+  background-color:green
+}
